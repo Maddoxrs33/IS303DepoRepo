@@ -6,3 +6,8 @@
 def multiplyTwoNumbers(iNum1, iNum2):
     #Multiply and return the result
     return iNum1*iNum2
+
+# Description: Accept two numbers and return the sum
+def addTwoNumbers(iNum1, iNum2):
+    #Add and return result
+    return iNum1+iNum2
